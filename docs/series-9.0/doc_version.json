@@ -1,8 +1,8 @@
 {
-  "doc_version": 1,
+  "doc_version": 2,
   "mda_series": "9.0",
-  "updated": "2026-11-25",
-  "size_bytes": 15051284,
-  "sha256": "b3dd595157cb656934ec432dc7097da0fbbc0af0589549a3a272a883d8fff539",
-  "signature": "EGu5Pb/89AYbIc/SnWbbc1g6UvzanqFmdwfRemqGWLn4uIwoDlIGzbCv2gvIoL7KpNJh1pa0qG5eIpNSmN/ODw=="
+  "updated": "2026-11-26",
+  "size_bytes": 32336195,
+  "sha256": "8066146c4569702c114de3d3cc555498001ca4794b95ede7a65cbaf22b579aa4",
+  "signature": "PdpeNFBdTJ1pj4qAkv75H+IPtKOASuWYqHGbROBkT3Vi1QCeJHBC0YCttib3P7Iak0xId11t4xjagyEN72iEBQ=="
 }
